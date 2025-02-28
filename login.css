@@ -1,0 +1,102 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-image: url(Images/loginbg.jpg);
+    background-size: cover;
+}
+
+.heading{
+    margin-top: 30px;
+    text-align: center;
+    margin-top: 125px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+.login{
+    width: 150px;
+    height: 35px;
+
+    background-color: rgb(75, 75, 198);
+    color: white;
+    border-radius: 10px;
+    margin-left: 602px;
+    cursor: pointer;
+}
+
+.signup{
+    width: 150px;
+    height: 35px;
+    border: 2px;
+    border-color: darkgrey;
+    border-style: solid;
+    border-radius: 10px;
+    border-left: 10px;
+    cursor: pointer;
+}
+
+.mail{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.mail1{
+    width: 320px;
+    height: 40px;
+    border: 2px;
+    border-color: rgb(168, 165, 165);
+    border-style: solid;
+    border-radius: 15px;   
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+
+.pass{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.pass1{
+    width: 320px;
+    height: 40px;
+    border: 2px;
+    border-color: rgb(168, 165, 165);
+    border-style: solid;
+    border-radius: 15px;   
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+.forPass{
+    color: rgb(47, 98, 227);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 598px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+
+.login2{
+    background-color: rgb(75, 75, 198);
+    color: white;
+    margin-top: 25px;
+    margin-left: 599px;
+    width: 323px;
+    height: 50px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.last{
+    margin-top: 25px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: pointer;
+}
+
+.span1{
+    color: rgb(65, 65, 222);
+    cursor: pointer;
+}
+

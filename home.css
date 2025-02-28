@@ -1,0 +1,184 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: black;
+    background-image: url(Images/purple-gradient-with-dark-transition-5d99f8b4fec03d7f9121d89bc3cb5790\ \(3\).webp);
+    background-size: cover;
+    
+}
+
+.vizard{
+    background-color: rgb(51, 44, 159);
+    border-radius: 10px;
+    
+}
+.firstAndSecond{
+    display: block;
+}
+
+
+.firstContainer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: small;
+    
+}
+
+.secondContainer{
+    display: flex;
+    color: white;
+    justify-content: space-evenly;
+
+}
+
+.secondContainer1{
+    display: flex;
+    margin-top: 22px;
+    gap: 30px;
+    font-size: 600;
+    cursor: pointer;
+}
+.secondContainer2{
+    display: flex;
+    margin-top: 28px;
+    gap: 30px;
+    cursor: pointer;
+}
+
+.fontC{
+    font-weight: 700;
+    text-decoration: none;
+    color: white;
+}
+.Signupbut{
+    background-color: rgba(85,171,255,255);
+    color: white;
+    padding: 5px 15px 5px 15px;
+    border: 1px rgba(85,171,255,255) solid ;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+
+.thirdContainer{
+    display: block;
+}
+.tPiI{
+    color: white;
+    margin-top: 100px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 75px;    
+}
+
+.cIwG{
+    color: white;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 75px;
+}
+
+.fifthLine{
+    color: white;
+    margin-top: 25px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px; 
+}
+
+.sixthLine{
+    color: white;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px; 
+}
+
+.inputDiv{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.input{
+    width: 40%;
+    height: 50px;
+    border-radius: 20px;
+    border: 1px white solid;
+}
+
+.video{
+    text-align: center;
+    margin-top:100px;
+}
+
+.video1{
+    width: 60%;
+    border: 15px rgb(103, 15, 203) ;
+    border-style: solid;
+    border-radius: 15px;
+}
+
+
+.ninthLine{
+    color: white;
+    margin-top: 75px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 35px;
+}
+
+.aiButton{
+    text-align: center;
+}
+.aiButton1{
+    margin-top: 75px;
+    padding: 15px 35px 15px 35px;
+    background-color: black;
+    color: rgb(92, 51, 92);
+    border: 1px  rgb(103, 15, 203) solid;
+    border-radius: 35px;
+    font-size:25px;
+    font-weight: 900;
+}
+
+.tenthLine{
+    text-align: center;
+    margin-top: 35px;
+    color:rgb(103, 15, 203);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 45px;
+}
+.line2{
+    margin-top: 10px;
+}
+
+.eleventhLine{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 15px;
+    font-size: 25px;
+    color: white;
+}
+
+.lastPoints1{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 125px;
+    cursor: pointer;
+    color: white;
+}
+
+
+.lastLine{
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+}
+
+.End{
+    margin-top: 150px;
+}
+

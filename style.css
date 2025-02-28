@@ -1,0 +1,246 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+.firstContainer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 13px;
+    font-size: small;
+}
+
+.secondContainer{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.secondContainer1{
+    display: flex;
+    margin-top: 22px;
+    gap: 30px;
+    font-size: 600;
+    cursor: pointer;
+}
+.secondContainer2{
+    display: flex;
+    margin-top: 28px;
+    gap: 30px;
+    cursor: pointer;
+}
+
+.fontC{
+    font-weight: 700;
+    text-decoration: none;
+    color: black;
+}
+.Signupbut{
+    background-color: rgba(85,171,255,255);
+    color: white;
+    padding: 5px 15px 5px 15px;
+    border: 1px rgba(85,171,255,255) solid ;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+
+.thirdContainer{
+    margin-top: 85px;
+    margin-left: 140px;
+}
+
+.fourthContainer{
+    display: flex;
+}
+.fourthContainer1{
+    display: flex;
+    margin-left: 140px;
+    font-style: italic;
+}
+.fourthContainer2{
+    display: flex;
+    margin-left: 450px;
+    margin-top: 15px;
+}
+
+.image{
+    display: flex;
+}
+
+.image1{
+    display: flex;
+    margin-left: 140px;
+    margin-top: 25px;
+}
+
+.image2{
+    margin-left: 80px;
+    margin-top: 25px;
+}
+
+.imgpara1{
+    margin-top: 190px;
+    margin-left: -175px;
+}
+
+.image3{
+    margin-top: 220px;
+    margin-left: -170px;
+}
+
+.imgpara2{
+    margin-top: 390px;
+    margin-left: -170px;
+}
+
+.image4{
+    margin-top: 420px;
+    margin-left: -170px;
+}
+
+.imgpara3{
+    margin-top: 590px;
+    margin-left: -170px;
+}
+
+
+.downImage{
+    display: flex;
+    gap: 100px;
+    margin-left: 135px;
+}
+
+.downContent{
+    display: flex;
+    gap: 200px;
+    margin-left: 175px;
+}
+
+.button{
+    margin-top: 35px;
+    margin-left: 140px;
+    
+}
+.preBut{
+    background-color: black;
+    color: white;
+    padding: 10px 20px 10px 20px;
+    border-radius: 10px;
+   
+}
+.uttBut{
+    background-color: black;
+    color: white;
+    margin-left: 25px;
+    padding: 10px 20px 10px 20px;
+    border-radius: 10px;
+}
+
+.paragraph{
+      
+      margin-top: 30px;
+      margin-left: 140px;
+}
+.paraRow2{
+    margin-top: 30px;
+}
+.paraRow3{
+    margin-top: 25px;
+}
+.paraRow4{
+    margin-top: 25px;
+}
+.paraRow5{
+    margin-top: 25px;
+}
+.paraRow6{
+    margin-top: 25px;
+}
+.paraRow7{
+    margin-top: 25px;
+}
+.paraRow9{
+    margin-top: 25px;
+}
+
+.midImage1{
+    display: flex;
+    gap: 20px; 
+}
+
+.midImage2{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.onlyTwo{
+    display: flex;
+    margin-top: 80px;
+    margin-left: 140px;
+}
+
+.fsBut{
+    background-color: black;
+    color: white;
+    padding: 0px 25px 0px 25px;
+    border-radius: 10px;
+    margin-left: 33%;
+}
+
+.lastImg{
+    margin-left: 140px;
+}
+
+.lastLogo{
+    display: flex;
+}
+.uizardLogo{
+    display: flex;
+    margin-top: 175px;
+    margin-left: 140px;
+}
+.logoText{ 
+    margin-top: 175px;
+    margin-left: 10px;
+}
+
+.logoText1{
+    margin-top: 210px;
+    margin-left: -69px;
+}
+
+.lastButton{
+    display: flex;
+    margin-left: 80%;
+    margin-top: -60px;
+}
+
+.signUp2{
+    background-color: rgba(85,171,255,255);
+    color: white;
+    border: 1px rgba(85,171,255,255) solid ;
+    padding: 5px 15px 5px 15px;
+    border-radius: 8px;
+}
+
+.lastPoints1{
+    display: flex;
+    margin-left: 125px;
+    cursor: pointer;
+}
+
+.lastLine{
+    text-align: center;
+}
+
+
+.End{
+    margin-top: 150px;
+}
+
+
+ 

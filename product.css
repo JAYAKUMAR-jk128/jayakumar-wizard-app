@@ -1,0 +1,213 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+.firstContainer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 13px;
+    font-size: small;
+}
+
+.secondContainer{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.secondContainer1{
+    display: flex;
+    margin-top: 22px;
+    gap: 30px;
+    font-size: 600;
+    cursor: pointer;
+}
+.secondContainer2{
+    display: flex;
+    margin-top: 28px;
+    gap: 30px;
+    cursor: pointer;
+}
+
+.fontC{
+    font-weight: 700;
+    text-decoration: none;
+    color: black;
+}
+.Signupbut{
+    background-color: rgba(85,171,255,255);
+    color: white;
+    padding: 5px 15px 5px 15px;
+    border: 1px rgba(85,171,255,255) solid ;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+
+.secondLine{
+    margin-top: 80px;
+}
+
+.secondLine1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 80px;
+
+}
+
+.thirdLine{
+    margin-top: 50px;
+}
+
+.thirdLine1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+}
+
+
+.inputDiv{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.input{
+    width: 40%;
+    height: 50px;
+    border-radius: 20px;
+    border: 1px white solid;
+    border: 1px black solid;
+}
+
+.firstImgdiv{
+    text-align: center;
+    margin-top: 60px;
+}
+
+.firstImg1{
+     border: 25px rgb(239, 231, 231) solid;
+     border-radius: 20px;
+}
+
+.fifthLine{
+    margin-top: 50px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 35px;
+}
+
+.sixthLine{
+    margin-top: 35px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+}
+.fomBut{
+    text-align: center;
+}
+.fomBut1{
+    text-align: center;
+    margin-top: 45px;
+    background-color: black;
+    color: white;
+    padding: 15px 30px 15px 30px;
+    font-size: 20px;
+    border-radius: 45px;
+
+}
+
+.mainBox{
+    border: 1px black solid;
+    margin-top: 45px;
+    text-align: center;
+    display: flex;
+    width: 90%;
+    justify-content: space-evenly;
+    margin-left: 74px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border-radius: 20px;
+    background-color: rgb(111, 172, 172);
+}
+
+.card{
+    border: 1px black solid;
+    background-color: rgb(226, 161, 161);
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding: 45px 10px 45px 10px;
+    border-radius: 20px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.card3{
+    background-color: rgb(237, 225, 210);
+}
+
+.cardImg{
+    margin-top: 5%;
+    text-align: center;
+    border-radius: 25px;
+}
+
+.seventhLine{
+    text-align: center;
+    margin-top: 55px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+}
+
+.eightLine{
+    text-align: center;
+    margin-top: 55px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.FindButton{
+    text-align: center;
+    margin-top: 45px;
+}
+
+
+.FindButton1{
+    padding: 20px 35px 20px 35px;
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+}
+
+.likeButton{
+    color: white;
+    background-color: black;
+    border: 1px blue solid;
+    text-align: center;
+}
+
+.blackDiv{
+    margin-top: 45px;
+    text-align: center;
+}
+.likeButton{
+    margin-top: 45px;
+    padding: 15px 25px 15px 25px;
+    border-radius: 35px;
+}
+
+.blackPara1{
+    text-align: center;
+    margin-top: 35px;
+    color: rgb(82, 48, 168);
+    font-family: 'Gill Sans', 'G ill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 55px;
+}
+
+.blackPara2{
+    text-align: center;
+    margin-top: 35px;
+    color:white;
+    font-family: 'Gill Sans', 'G ill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+}
